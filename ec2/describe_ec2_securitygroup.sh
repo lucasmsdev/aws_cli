@@ -1,0 +1,1 @@
+aws ec2 describe-security-groups --group-ids "inserir o id do security group"
