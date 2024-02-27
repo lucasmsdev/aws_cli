@@ -1,0 +1,2 @@
+aws s3api put-bucket-acl --bucket <MyBucket> --grant-read-acp 'URI:"http://acs.amazonaws.com/groups/s3/LogDelivery"' --grant-write 'URI://http://acs.amazonaws.com/groups/s3/LogDelivery'
+aws s3api put-bucket-logging --bucket <MyBucket> --bucket-loggin-status file://logging.json

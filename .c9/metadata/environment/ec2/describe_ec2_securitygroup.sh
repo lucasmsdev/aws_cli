@@ -1,0 +1,1 @@
+{"mime":"application/x-sh","filter":false,"title":"describe_ec2_securitygroup.sh","tooltip":"/ec2/describe_ec2_securitygroup.sh","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1708978760472,"hash":"58843ed40f95bed4e1262453c904da46758d8f78"}

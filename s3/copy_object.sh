@@ -1,0 +1,1 @@
+aws s3 cp s3://bucket-origem/object s3://bucket-destino/object

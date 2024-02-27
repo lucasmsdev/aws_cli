@@ -1,0 +1,1 @@
+aws s3api put-bucket-acl --bucket <Mybucket> --grant-full-controll 'emailaddress="qualqueremail@gmail.com",emailaddress="qualqueremail2@gmail.com"' --grant-read 'uri="http://acs.amazon.com/groups/global/AllUsers"'
